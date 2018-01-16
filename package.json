@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-schauwem",
+  "version": "1.0.0",
+  "description": "Personal ESLint Configuration",
+  "keywords": ["eslint", "eslinter", "config"],
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/schauwem/eslint-config-schauwem.git",
+    "type": "git"
+  },
+  "author": "Michaël Schauwers <michael@schauwe.rs>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint-plugin-babel": "^4.1.2",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
